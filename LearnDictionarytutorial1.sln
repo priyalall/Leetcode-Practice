@@ -5,7 +5,11 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnDictionarytutorial1", "LearnDictionarytutorial1\LearnDictionarytutorial1.csproj", "{E71074E2-AECB-421F-A8B6-1863021857A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2pointer", "2pointer\2pointer.csproj", "{92500C2A-46FD-456C-9277-79FAD6718737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2pointer", "2pointer\2pointer.csproj", "{92500C2A-46FD-456C-9277-79FAD6718737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2sumProperty", "2sumProperty\2sumProperty.csproj", "{452660C6-FEE8-4351-81A7-F9AD63EF72D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pallindrome", "Pallindrome\Pallindrome.csproj", "{83CB141A-B43C-4BFA-A4B1-693E21FEA05A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{92500C2A-46FD-456C-9277-79FAD6718737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92500C2A-46FD-456C-9277-79FAD6718737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92500C2A-46FD-456C-9277-79FAD6718737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452660C6-FEE8-4351-81A7-F9AD63EF72D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452660C6-FEE8-4351-81A7-F9AD63EF72D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452660C6-FEE8-4351-81A7-F9AD63EF72D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452660C6-FEE8-4351-81A7-F9AD63EF72D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CB141A-B43C-4BFA-A4B1-693E21FEA05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CB141A-B43C-4BFA-A4B1-693E21FEA05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CB141A-B43C-4BFA-A4B1-693E21FEA05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CB141A-B43C-4BFA-A4B1-693E21FEA05A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
